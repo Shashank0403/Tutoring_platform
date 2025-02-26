@@ -6,8 +6,7 @@ It serves as a connecting hub, facilitating the exchange of expertise by bringin
 ## Tech Stack 
 React,Figma,JS,SQL,HTML,CSS
 
-- **Design Decisions Document:** [Design Decisions](https://docs.google.com/document/d/1-N_yoLzWxgwN4o8_4yibo9lg1o7yIQ3HgKGREGP3iDQ/edit?usp=sharing)
-- **Heuristic Evaluation Video:** [Heuristic Evaluation](https://www.youtube.com/watch?v=BZZegt0MwJQ&t=17s)
+- **Design Document:** [Design Decisions](https://docs.google.com/document/d/1htWcN0VZs3AmXlpQ35CJ-wzKyqgSb0xV0KUPFQNg2xw/edit?usp=sharing)
 
 ## Screenshots 
 <img width="1464" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/eb870329-c9ad-4f14-898b-0adcc3d67f99">
