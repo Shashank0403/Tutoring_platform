@@ -10,10 +10,11 @@ React,Figma,JS,SQL,HTML,CSS
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/9e1bd800-c24f-4a8e-9c34-31925c2b310f)
+![image](https://github.com/user-attachments/assets/35741264-c843-472e-9698-7cc33fe29815)
 
 
 
-<img width="1453" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/afcd632c-091a-4324-9f1b-5a23953b10a6">
+
 <img width="1461" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/27ed1bf3-c2a4-4592-84ea-675dffe16ddc">
 <img width="1462" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/8466b99a-9f2e-4c55-ab16-57f9c818505a">
 <img width="1463" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/d79fdc52-1815-4d4e-a17c-796cab1b447c">
