@@ -1,7 +1,7 @@
 ## TUTORING PLATFORM
 
-Tutorly is a dynamic platform designed to bridge the gap between individuals seeking to learn and those eager to share their knowledge. 
-It serves as a connecting hub, facilitating the exchange of expertise by bringing together learners and educators in a seamless and interactive environment.
+Platform that connects learners with knowledgeable individuals eager to share their expertise. 
+It acts as a hub for seamless and interactive knowledge exchange, making learning more accessible and engaging.
 
 ## Tech Stack 
 React,Figma,JS,SQL,HTML,CSS
@@ -27,6 +27,3 @@ React,Figma,JS,SQL,HTML,CSS
 
 
 
-## Acknowledgments
-
-This project was developed as part of the CS 409: Art of Web Programming final project at the University of Illinois at Urbana-Champaign. 
