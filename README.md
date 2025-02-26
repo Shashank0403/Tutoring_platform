@@ -12,10 +12,10 @@ React,Figma,JS,SQL,HTML,CSS
 ![image](https://github.com/user-attachments/assets/9e1bd800-c24f-4a8e-9c34-31925c2b310f)
 ![image](https://github.com/user-attachments/assets/35741264-c843-472e-9698-7cc33fe29815)
 ![image](https://github.com/user-attachments/assets/3db18715-05ae-4938-ab0b-0cc67d86f673)
+![image](https://github.com/user-attachments/assets/7fa2f17b-59ef-4f33-a1f7-332a9438a051)
 
 
 
-<img width="1462" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/8466b99a-9f2e-4c55-ab16-57f9c818505a">
 <img width="1463" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/d79fdc52-1815-4d4e-a17c-796cab1b447c">
 <img width="1467" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/1931dede-3169-487c-a28c-f1d8f39ebdcc">
 <img width="1454" alt="image" src="https://github.com/ishitakarna/tutorly-ui/assets/43277968/6b7f33d6-86cd-496f-beae-efa6baa543f1">
