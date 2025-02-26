@@ -1,16 +1,11 @@
-## Tutorly
+## TUTORING PLATFORM
 
 Tutorly is a dynamic platform designed to bridge the gap between individuals seeking to learn and those eager to share their knowledge. 
 It serves as a connecting hub, facilitating the exchange of expertise by bringing together learners and educators in a seamless and interactive environment.
 
 ## Tech Stack 
-- Frontend: React
-- Backend: Java SpringBoot with HyperText Application Language (HAL)
-- Database: MySQL RDBMS
+React,Figma,JS,SQL,HTML,CSS
 
-## Resources and Links
-
-- **Demo Video:** [Watch Demo](https://youtu.be/dr29ZyRU9g0)
 - **Design Decisions Document:** [Design Decisions](https://docs.google.com/document/d/1-N_yoLzWxgwN4o8_4yibo9lg1o7yIQ3HgKGREGP3iDQ/edit?usp=sharing)
 - **Heuristic Evaluation Video:** [Heuristic Evaluation](https://www.youtube.com/watch?v=BZZegt0MwJQ&t=17s)
 
