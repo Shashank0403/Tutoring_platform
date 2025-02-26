@@ -1,0 +1,55 @@
+.schedule-container {
+    font-family: 'Solway';
+    margin: 20px;
+    text-align: center;
+}
+
+.schedule-container h1 {
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 0rem;
+    margin-top: 2rem;
+}
+
+.schedule-tab-container {
+    overflow-y: scroll;
+    height: 200px;
+}
+
+.schedule-tab-container thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+
+.schedule-container th {
+    font-weight: bold;
+}
+
+.schedule-container tr {
+    font-size: 15px;
+}
+
+.feedback-button {
+    color: white;
+    background-color: #3B71CA;
+    border-color: #3B71CA;
+    box-shadow: #3B71CA;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.feedback-button:hover {
+    background-color: lavender;
+    color: black;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: orangered;
+}
+
+.nav-tabs .nav-link:hover{
+    color: gray
+}
+  

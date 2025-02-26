@@ -1,0 +1,19 @@
+.card-text-custom {
+    margin-bottom: 0;
+    font-family: 'Solway';
+    text-align: left;
+    color: black;
+}
+
+.card-title-custom {
+    font-family: 'Solway';
+    color: #3B71CA;
+}
+
+.card-link-custom {
+    color: black;
+}
+
+.topic-card:hover {
+    cursor: pointer;
+}

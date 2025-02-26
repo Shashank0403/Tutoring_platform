@@ -1,0 +1,56 @@
+.gradient-custom-3 {
+    // /* fallback for old browsers */
+    // background: #939393;
+  
+    // /* Chrome 10-25, Safari 5.1-6 */
+    // background: radial-gradient(circle at -4% -12.9%, rgb(74, 98, 110) 0.3%, rgb(30, 33, 48) 90.2%);
+  
+    // /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    // background: radial-gradient(circle at -4% -12.9%, rgb(74, 98, 110) 0.3%, rgb(30, 33, 48) 90.2%);
+    background: lavender;
+    color: black;
+    border-color: rgb(35, 86, 124);
+    box-shadow: rgb(35, 86, 124);
+  }
+
+  .gradient-custom-3:hover {
+    background-color: rgb(35, 86, 124);
+    color: white;
+  }
+
+  .gradient-custom-2 {
+    // /* fallback for old browsers */
+    // background: #939393;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    // background: radial-gradient(circle at -4% -12.9%, rgb(74, 98, 110) 0.3%, rgb(30, 33, 48) 90.2%);
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: radial-gradient(circle at -4% -12.9%, rgb(35, 86, 124) 0.3%, rgb(110, 91, 174) 90.2%);
+    //background: #3B71CA
+  
+  }
+  
+  @media (min-width: 768px) {
+    .gradient-form {
+      height: 100vh !important;
+    }
+  }
+  @media (min-width: 769px) {
+    .gradient-custom-2 {
+      border-top-right-radius: .3rem;
+      border-bottom-right-radius: .3rem;
+    }
+  }
+
+  .login-text {
+    font-size: 25px;
+  }
+
+  .login-container {
+    margin-top: 100px;
+  }
+
+  .register-container {
+    margin-top: 100px;
+  }

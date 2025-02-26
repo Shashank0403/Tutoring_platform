@@ -1,0 +1,22 @@
+.topics-container {
+    height: 260px;
+    overflow-y: scroll;
+    overflow-x: clip;
+}
+
+.learn-container {
+    margin: 20px;
+}
+
+.tag-container {
+    font-size: x-large;
+    font-family: 'Solway';
+    font-weight: bold;
+    margin-top: 10px;
+    border: none;
+}
+
+.group-container {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
