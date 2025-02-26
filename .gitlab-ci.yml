@@ -1,0 +1,28 @@
+image: node:latest
+
+variables:
+  PUBLIC_URL: /fp
+
+cache:
+  paths:
+  - node_modules
+
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+
+  script:
+    - unset CI
+    - npm install --legacy-peer-deps
+    - npm run build
+    - mv public _public
+    - mv build public
+
+  artifacts:
+    paths:
+    - public
+
+  only:
+    - main
